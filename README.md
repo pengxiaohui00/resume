@@ -9,7 +9,7 @@
 
 ## 职业：前端开发
  
-## 我的个作品
+## 我的个人作品
 
 ###  musicPlayer https://pengxiaohui00.github.io/project/musicPlayer/music.html
 
@@ -22,3 +22,7 @@
 ### DoubanMovie https://pengxiaohui00.github.io/project/DoubanMovie/index.html
 
 ### News: https://pengxiaohui00.github.io/waterfall-sinanews/News/news.html
+## 项目
+
+## 博客  https://www.jianshu.com/c/73916acf9fd1
+## 实习经历 
