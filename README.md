@@ -8,7 +8,13 @@
 
 学校：杭州电子科技大学
 
+专业：电子与通信工程
+
 职位：前端开发
+
+电话 13336133646
+
+微信：a1341660796
 # 项目
 ## MusicRadio
 ## 代码地址 https://github.com/pengxiaohui00/MusicRadio
