@@ -45,3 +45,8 @@ https://pengxiaohui00.github.io/module/tab%E5%88%87%E6%8D%A2%E7%BB%84%E4%BB%B6/i
 ## 日常的代码练习
 https://github.com/pengxiaohui00/demo
 ## 实习经历 
+杭州新华三通信技术有限公司
+
+园区交交换机部门，网络测试工程师，要求熟悉基本的计算机网络基础，命令行，tcl脚本，c语言；
+ctc盒子OSPF路由特性测试 156/156;
+ctc盒子OSPFV3路由特性测试 105/105;
