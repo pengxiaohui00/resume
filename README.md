@@ -34,7 +34,7 @@
 
 ### DoubanMovie https://pengxiaohui00.github.io/project/DoubanMovie/index.html
 
-### News: https://pengxiaohui00.github.io/waterfall-sinanews/News/news.html
+### News: https://pengxiaohui00.github.io/waterfallNews/News/news.html
 
 ### node.js搭建静态服务器 https://github.com/pengxiaohui00/node-server/tree/master/server1
 ## 自定义的一些组件
