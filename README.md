@@ -34,14 +34,17 @@
 
 ### DoubanMovie https://pengxiaohui00.github.io/project/DoubanMovie/index.html
 
+### LaayLoading https://pengxiaohui00.github.io/project/LazyLoading/index.html
+
+### waterfall https://pengxiaohui00.github.io/project/waterfall/index.html
+
 ### News: https://pengxiaohui00.github.io/waterfallNews/News/news.html
 
 ### node.js搭建静态服务器 https://github.com/pengxiaohui00/node-server/tree/master/server1
+
 ## 自定义的一些组件
 ## 代码地址：
 https://github.com/pengxiaohui00/module
-## 预览地址
-https://pengxiaohui00.github.io/module/tab%E5%88%87%E6%8D%A2%E7%BB%84%E4%BB%B6/index.html
 ## 博客地址  https://www.jianshu.com/c/73916acf9fd1
 ## 日常的代码练习
 https://github.com/pengxiaohui00/demo
