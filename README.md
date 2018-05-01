@@ -46,8 +46,7 @@
 ## 代码地址：
 https://github.com/pengxiaohui00/module
 ## 博客地址  https://www.jianshu.com/c/73916acf9fd1
-## 日常的代码练习
-https://github.com/pengxiaohui00/demo
+
 ## 实习经历 
 公司：杭州新华三通信技术有限公司
 
