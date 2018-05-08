@@ -19,14 +19,12 @@
 应聘实习职位：前端开发 
 
 期望实习地点：杭州		
-#
-
-## MusicRadio
-## 代码地址 https://github.com/pengxiaohui00/MusicRadio
-## 预览地址 https://pengxiaohui00.github.io/MusicRadio/code/index.html
 
 ## 作品(项目)
-### MusicRadio（音乐电台）预览地址 https://pengxiaohui00.github.io/MusicRadio/code/index.html
+
+### MusicRadio（音乐电台）
+
+预览地址 https://pengxiaohui00.github.io/MusicRadio/code/index.html
 
 技术栈：jQuery/SS3/响应式
 
@@ -68,7 +66,10 @@
 。
 12.把你选中喜欢的歌曲，收集到你最爱的歌单上，通过localStorage存储到浏览器本地。
 
-### DoubanMovie（移动端豆瓣电影） 预览地址 https://pengxiaohui00.github.io/project/DoubanMovie/index.html      
+
+### DoubanMovie（移动端豆瓣电影） 
+
+预览地址 https://pengxiaohui00.github.io/project/DoubanMovie/index.html      
 
 技术栈：移动端/jQuery/CSS3/响应式
 
@@ -96,7 +97,9 @@
 
 6.将10条数据拼装成DOM展示在页面上，当滚动条底部区域时再次发送请求，并通过加锁与函数节流来优化功能；
 
-News（瀑布流新闻） 预览地址: https://pengxiaohui00.github.io/waterfallNews/News/news.html
+### News（瀑布流新闻）
+
+预览地址: https://pengxiaohui00.github.io/waterfallNews/News/news.html
 
 技术栈：jQuery/CSS3/瀑布流
 
@@ -119,12 +122,13 @@ News（瀑布流新闻） 预览地址: https://pengxiaohui00.github.io/waterfa
 5.load出现在可视区域内时，再次获取page的10条数据，重复循环；
 
 ## 自定义的一些组件
-## 代码地址：
-https://github.com/pengxiaohui00/module
+
+ 代码地址：https://github.com/pengxiaohui00/module
 
 #### 小作品：
 
-###  预览地址
+ 预览地址
+ 
 ###  musicPlayer https://pengxiaohui00.github.io/project/musicPlayer/music.html
 
 ### TheUserLogin https://pengxiaohui00.github.io/project/TheUserLogin/index.html
