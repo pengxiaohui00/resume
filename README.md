@@ -135,7 +135,9 @@
 项目功能介绍：
 
 1.使用原生 js 实现一个 音乐播放器，涉及html5 Audo API的使用、组件化思路、ajax、跨域。
+
 2.展现一个音乐歌曲列表，与播放器，播放对应的歌曲，并展示对应的背景图片；
+
 3.通过原生js实现可切换下一首，上一首，播放，暂停，时间，进度条显示，选择歌单播放相应歌曲功能等
 
 ### TheUserLogin（3D登录框） https://pengxiaohui00.github.io/project/TheUserLogin/index.html
@@ -144,13 +146,31 @@
 项目功能介绍：
 
 1.使用js,正则表达式，与表单实现用户的登入与注册用，与验证相关用户输入信息；
+
 2.登入注册框的通过点击切换实现3D旋转；
+
 3.点击用户图标，与登入框以外内容，可实现，登入框的显示与隐藏；
 
 ### node.js搭建静态服务器 https://github.com/pengxiaohui00/node-server/tree/master/server1
+技术栈：node.js/js/ajax
+
+项目功能介绍：
+
+1.输入对应的URL地址这个服务器可以通过处理对应路由
+
+2.获取静态目录static中的资源，
+
+3.也可以同ajax发送请求获取数据，
+
+4.另外可以添加搜索字符，获取对应的数据
 
 ### ASongOfIceAndFire https://pengxiaohui00.github.io/project/ASongOfIceAndFire/index.html
 
+技术栈：css3/html5/css布局
+
+项目功能介绍：
+
+1.通过css布局，html5,css3等基础知识，实现的一个很酷炫的静态介绍冰与火之歌的页面；
 
 
 
