@@ -20,6 +20,36 @@
 
 期望实习地点：杭州		
 
+## 专业技能
+熟悉ES5/ES6、Html/Html5、Css/Css3、DOM、AJAX等前端开发技术；
+
+熟悉jquery，了解Vue；
+
+熟悉计算机网络、TCP/IP、HTTP/https协议、web安全；
+
+了解node.js，Express.js；
+
+了解npm.script、less、webpack、gulp、Git；
+
+熟悉C语言及常用Linux命令行；
+
+熟悉Photoshop，firework，sublime,webstorm等前端工具；
+
+## 教育经历	
+ 2016.9-2019.4  	   杭州电子科技大学 	   电子信息学院          电子与通信工程 	       硕士
+ 
+ 2012.9-2016.6       赣南医学院         电子信息工程学院       生物医学工程          学士
+ 
+ ## 所获奖项
+ 
+ 计算机二级C语言，
+  
+  英语四级，
+  
+  研究生电子设计大赛省3等奖
+  
+  研究生2等奖学金2次；     
+
 ## 作品(项目)
 
 ### MusicRadio（音乐电台）
@@ -186,35 +216,7 @@ ctc盒子OSPFv2路由特性测试 ;
 
 ctc盒子OSPFV3路由特性测试 ;
 
-## 专业技能
-熟悉ES5/ES6、Html/Html5、Css/Css3、DOM、AJAX等前端开发技术；
 
-熟悉jquery，了解Vue；
-
-熟悉计算机网络、TCP/IP、HTTP/https协议、web安全；
-
-了解node.js，Express.js；
-
-了解npm.script、less、webpack、gulp、Git；
-
-熟悉C语言及常用Linux命令行；
-
-熟悉Photoshop，firework，sublime,webstorm等前端工具；
-
-## 教育经历	
- 2016.9-2019.4  	   杭州电子科技大学 	 电子信息学院          电子与通信工程 	       硕士
- 
- 2012.9-2016.6       赣南医学院         电子信息工程学院       生物医学工程          学士
- 
- ## 所获奖项
- 
- 计算机二级C语言，
-  
-  英语四级，
-  
-  研究生电子设计大赛省3等奖
-  
-  研究生2等奖学金2次；     
   
  ##  	自我评价
  
