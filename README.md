@@ -176,7 +176,7 @@
 
 
 
-## 博客地址  https://www.jianshu.com/c/73916acf9fd1
+## 博客地址    https://www.jianshu.com/c/73916acf9fd1     （暂时已积累60余篇）
 
 ## 实习经历 
 公司：杭州新华三通信技术有限公司
@@ -192,17 +192,19 @@ ctc盒子OSPF路由特性测试 156/156;
 ctc盒子OSPFV3路由特性测试 105/105;
 
 ## 专业技能
-熟悉Javascript、Html/Html5、Css/Css3等前端开发技术，
+熟悉ES5/ES6、Html/Html5、Css/Css3、DOM、AJAX等前端开发技术；
 
-熟悉jquery，对Vue有一定认识；
+熟悉jquery，了解Vue；
 
-了解node.js，对npm与webpack的使用一定认识；
-        
-对浏览器兼容，与前端性能优化有一定了解；
+熟悉计算机网络、TCP/IP、HTTP/https协议、web安全；
 
-了解计算机网络，TCP/IP，HTTP协议,C语言及常用Linux命令行；
+了解node.js，Express.js；
 
-了解Photoshop，firework，sublime,webstorm,git等前端工具的使用经验；
+了解npm.script、less、webpack、gulp、Git；
+
+熟悉C语言及常用Linux命令行；
+
+熟悉Photoshop，firework，sublime,webstorm等前端工具；
 
 ## 教育经历	
  2016.9-2019.4  	   杭州电子科技大学 	 电子信息学院          电子与通信工程 	       硕士
