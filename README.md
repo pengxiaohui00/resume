@@ -121,13 +121,6 @@
 
 5.load出现在可视区域内时，再次获取page的10条数据，重复循环；
 
-## 自定义的一些组件
-
- 代码地址：https://github.com/pengxiaohui00/module
-
-#### 小作品：
-
- 预览地址
  
 ###  musicPlayer（音乐播放器） https://pengxiaohui00.github.io/project/musicPlayer/music.html
 技术栈：jS/CSS3/HTML5/ajax
@@ -151,6 +144,14 @@
 
 3.点击用户图标，与登入框以外内容，可实现，登入框的显示与隐藏；
 
+### ASongOfIceAndFire https://pengxiaohui00.github.io/project/ASongOfIceAndFire/index.html
+
+技术栈：css3/html5/css布局
+
+项目功能介绍：
+
+1.通过css布局，html5,css3等基础知识，实现的一个很酷炫的静态介绍冰与火之歌的页面；
+
 ### node.js搭建静态服务器 https://github.com/pengxiaohui00/node-server/tree/master/server1
 技术栈：node.js/js/ajax
 
@@ -164,16 +165,10 @@
 
 4.另外可以添加搜索字符，获取对应的数据
 
-### ASongOfIceAndFire https://pengxiaohui00.github.io/project/ASongOfIceAndFire/index.html
 
-技术栈：css3/html5/css布局
+## 自定义的一些组件
 
-项目功能介绍：
-
-1.通过css布局，html5,css3等基础知识，实现的一个很酷炫的静态介绍冰与火之歌的页面；
-
-
-
+ 代码地址：https://github.com/pengxiaohui00/module
 
 
 ## 博客地址    https://www.jianshu.com/c/73916acf9fd1     （暂时已积累60余篇）
@@ -187,9 +182,9 @@
 
 工作内容：
 
-ctc盒子OSPF路由特性测试 156/156;
+ctc盒子OSPFv2路由特性测试 ;
 
-ctc盒子OSPFV3路由特性测试 105/105;
+ctc盒子OSPFV3路由特性测试 ;
 
 ## 专业技能
 熟悉ES5/ES6、Html/Html5、Css/Css3、DOM、AJAX等前端开发技术；
