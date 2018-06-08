@@ -51,6 +51,11 @@
   研究生2等奖学金2次；     
 
 ## 作品(项目)
+## Vue-resume(在线简历编辑器)
+
+预览地址：https://pengxiaohui00.github.io/Vue-resume/dist/
+
+技术栈：vue/webpack/npm/sass/es6/normalize.css
 
 ### MusicRadio（音乐电台）
 
