@@ -51,10 +51,24 @@
   研究生2等奖学金2次；     
 
 ## 作品(项目)
+
+## 作品：原生js实现MVVM框架       
+
+预览地址：https://pengxiaohui00.github.io/MVVM/index
+
+## 通过 Object.defineProperty和观察者模式，用原生js实现了MVVM双向绑定，与绑定事件，绑定属性指令
+
 ## Vue-resume(在线简历编辑器)
 
 预览地址：https://pengxiaohui00.github.io/Vue-resume/dist/
 
+ ## 项目名称：Vue-blog（多人共享博客） 
+ 
+预览地址：https://pengxiaohui00.github.io/Vue-blog/#/
+
+## 技术栈：vue-cli/vue2/axios/vue-router/vuex/es6/npm/less
+       
+# 项目功能 一个多人共享博客系统，包含首页、用户文章列表、登录、注册、个人管理、编辑、发布等功能。
 
 ## 项目名称 Veu-resume(vue在简历编辑器)；（第一版本）
 
